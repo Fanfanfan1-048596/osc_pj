@@ -1,0 +1,47 @@
+{
+  "datasets": {
+    "XAM-S": {
+      "video": "data/XAM-S.mp4",
+      "annotations": "data/train/xam-s",
+      "source": "https://github.com/Ruyi-Feng/Ubiquitous-Traffic-Eye"
+    },
+    "Anthem": {
+      "video": "data/Anthem.mp4",
+      "annotations": "data/train/Anthem",
+      "source": "https://docs.google.com/document/d/1ILzkIccVBLmeqEZhxXrqL1S1Mc7ZNXqR8s5JoJlDTzA/edit"
+    },
+    "Local": {
+      "video": "data/local.mp4",
+      "annotations": "data/train/local",
+      "source": "https://docs.google.com/document/d/1ILzkIccVBLmeqEZhxXrqL1S1Mc7ZNXqR8s5JoJlDTzA/edit"
+    }
+  },
+  "models": {
+    "vehicle": {
+      "weights": ".models/geotrax_yolov8s_1920.pt",
+      "training_code": "third_party/Geo-trax/train",
+      "source": "https://github.com/rfonod/geo-trax"
+    },
+    "lane": {
+      "weights": ".models/unet_roadmark.pt",
+      "training_code": "src/train.py",
+      "dataset": "https://doi.org/10.5281/zenodo.15474412"
+    }
+  },
+  "annotation_gui": {
+    "source": "third_party/X-AnyLabeling",
+    "version": "4.0.6"
+  },
+  "results": {
+    "evaluation": "outputs/evaluation.txt",
+    "figures": "outputs/report_figures",
+    "report": "课程设计报告.docx"
+  },
+  "environment": {
+    "python": "3.12",
+    "torch": "2.11.0+cu130",
+    "ultralytics": "8.4.160",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_memory_mib": 6144
+  }
+}

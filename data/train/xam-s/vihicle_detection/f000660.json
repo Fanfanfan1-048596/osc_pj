@@ -1,0 +1,1629 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": true,
+  "shapes": [
+    {
+      "label": "vehicle",
+      "score": 0.9026248455047607,
+      "points": [
+        [
+          62.11405563354492,
+          217.46920776367188
+        ],
+        [
+          103.34794616699219,
+          234.87277221679688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.9016143083572388,
+      "points": [
+        [
+          1060.471923828125,
+          131.05178833007812
+        ],
+        [
+          1098.673828125,
+          148.41622924804688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.9008656740188599,
+      "points": [
+        [
+          1161.059326171875,
+          131.10446166992188
+        ],
+        [
+          1199.4052734375,
+          147.86444091796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.9003658890724182,
+      "points": [
+        [
+          242.689208984375,
+          210.47726440429688
+        ],
+        [
+          281.73883056640625,
+          227.78317260742188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.899773895740509,
+      "points": [
+        [
+          427.925048828125,
+          139.44631958007812
+        ],
+        [
+          467.32086181640625,
+          156.48236083984375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.897287130355835,
+      "points": [
+        [
+          214.66064453125,
+          145.19003295898438
+        ],
+        [
+          253.6048583984375,
+          162.15127563476562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8963964581489563,
+      "points": [
+        [
+          363.7962646484375,
+          210.93896484375
+        ],
+        [
+          400.9185791015625,
+          228.00653076171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8948315382003784,
+      "points": [
+        [
+          1002.4293212890625,
+          154.86386108398438
+        ],
+        [
+          1040.1864013671875,
+          171.56427001953125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8928483128547668,
+      "points": [
+        [
+          603.0968017578125,
+          184.32766723632812
+        ],
+        [
+          639.786376953125,
+          201.27462768554688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8926915526390076,
+      "points": [
+        [
+          621.5597534179688,
+          226.5583953857422
+        ],
+        [
+          660.9295043945312,
+          243.75013732910156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8919376730918884,
+      "points": [
+        [
+          1109.791259765625,
+          206.4972381591797
+        ],
+        [
+          1146.052001953125,
+          223.19981384277344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8917143940925598,
+      "points": [
+        [
+          504.5631408691406,
+          163.0579833984375
+        ],
+        [
+          541.3013916015625,
+          179.59759521484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8905540108680725,
+      "points": [
+        [
+          935.3784790039062,
+          179.2124481201172
+        ],
+        [
+          972.3908081054688,
+          195.6122589111328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8898603916168213,
+      "points": [
+        [
+          417.048828125,
+          85.99110412597656
+        ],
+        [
+          451.782958984375,
+          102.44937133789062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8887786865234375,
+      "points": [
+        [
+          331.96337890625,
+          187.32589721679688
+        ],
+        [
+          369.6541748046875,
+          206.08926391601562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8884750008583069,
+      "points": [
+        [
+          208.33990478515625,
+          185.12899780273438
+        ],
+        [
+          246.14059448242188,
+          202.41363525390625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8884557485580444,
+      "points": [
+        [
+          304.48626708984375,
+          140.95018005371094
+        ],
+        [
+          344.26361083984375,
+          158.4596710205078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8880820274353027,
+      "points": [
+        [
+          625.1283569335938,
+          160.77569580078125
+        ],
+        [
+          662.7224731445312,
+          177.51092529296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8872928023338318,
+      "points": [
+        [
+          1026.7420654296875,
+          180.7713623046875
+        ],
+        [
+          1063.9139404296875,
+          197.41827392578125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8862622976303101,
+      "points": [
+        [
+          1093.759521484375,
+          175.64306640625
+        ],
+        [
+          1132.007568359375,
+          192.09765625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8846167922019958,
+      "points": [
+        [
+          17.826570510864258,
+          192.61669921875
+        ],
+        [
+          57.92291259765625,
+          209.93695068359375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8843637108802795,
+      "points": [
+        [
+          0.0,
+          147.03814697265625
+        ],
+        [
+          34.28398895263672,
+          163.97344970703125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8841650485992432,
+      "points": [
+        [
+          512.0931396484375,
+          215.08091735839844
+        ],
+        [
+          551.5635986328125,
+          232.1709442138672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8840596079826355,
+      "points": [
+        [
+          997.386474609375,
+          131.22418212890625
+        ],
+        [
+          1031.33349609375,
+          146.83856201171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8834890127182007,
+      "points": [
+        [
+          74.43963623046875,
+          144.66400146484375
+        ],
+        [
+          113.22134399414062,
+          161.46435546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8815047144889832,
+      "points": [
+        [
+          500.30523681640625,
+          136.2313232421875
+        ],
+        [
+          537.7069702148438,
+          152.98760986328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8811811208724976,
+      "points": [
+        [
+          872.3485107421875,
+          191.59869384765625
+        ],
+        [
+          908.886962890625,
+          208.5096435546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8808503150939941,
+      "points": [
+        [
+          545.61865234375,
+          82.00553894042969
+        ],
+        [
+          581.1688232421875,
+          98.39447021484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8803544640541077,
+      "points": [
+        [
+          384.0849609375,
+          237.652099609375
+        ],
+        [
+          422.014404296875,
+          254.77072143554688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8802775740623474,
+      "points": [
+        [
+          280.71026611328125,
+          109.3157958984375
+        ],
+        [
+          318.43255615234375,
+          126.13665771484375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8798960447311401,
+      "points": [
+        [
+          16.522207260131836,
+          245.0406951904297
+        ],
+        [
+          58.63684844970703,
+          263.10162353515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.879200279712677,
+      "points": [
+        [
+          884.3184814453125,
+          96.8619384765625
+        ],
+        [
+          925.9432373046875,
+          115.34686279296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.877067506313324,
+      "points": [
+        [
+          113.95750427246094,
+          191.33078002929688
+        ],
+        [
+          152.2804718017578,
+          207.91854858398438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8759781122207642,
+      "points": [
+        [
+          269.75213623046875,
+          241.96807861328125
+        ],
+        [
+          307.82537841796875,
+          258.498291015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8755642771720886,
+      "points": [
+        [
+          797.939453125,
+          58.18327331542969
+        ],
+        [
+          833.552734375,
+          74.88374328613281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8755059838294983,
+      "points": [
+        [
+          557.7595825195312,
+          136.34288024902344
+        ],
+        [
+          596.0575561523438,
+          154.18919372558594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8752674460411072,
+      "points": [
+        [
+          431.867431640625,
+          222.7462615966797
+        ],
+        [
+          466.0111083984375,
+          239.6712188720703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8738595843315125,
+      "points": [
+        [
+          35.61384582519531,
+          93.75300598144531
+        ],
+        [
+          72.58236694335938,
+          110.54924011230469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.873760461807251,
+      "points": [
+        [
+          928.31103515625,
+          46.433135986328125
+        ],
+        [
+          963.703857421875,
+          63.04243469238281
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8726450800895691,
+      "points": [
+        [
+          1033.2392578125,
+          32.19667053222656
+        ],
+        [
+          1067.801025390625,
+          48.03119659423828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8722540140151978,
+      "points": [
+        [
+          192.35140991210938,
+          28.20964813232422
+        ],
+        [
+          226.67184448242188,
+          43.772621154785156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8709167838096619,
+      "points": [
+        [
+          1063.890625,
+          99.7247543334961
+        ],
+        [
+          1100.5732421875,
+          116.26959991455078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8699198961257935,
+      "points": [
+        [
+          575.084716796875,
+          252.79669189453125
+        ],
+        [
+          614.051025390625,
+          269.09881591796875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8698649406433105,
+      "points": [
+        [
+          145.07745361328125,
+          206.14317321777344
+        ],
+        [
+          183.32110595703125,
+          223.56727600097656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8690124154090881,
+      "points": [
+        [
+          159.58078002929688,
+          70.5135498046875
+        ],
+        [
+          196.8101806640625,
+          87.39115905761719
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8681241273880005,
+      "points": [
+        [
+          876.9021606445312,
+          155.6978759765625
+        ],
+        [
+          914.2391967773438,
+          171.9283447265625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8672875165939331,
+      "points": [
+        [
+          678.9410400390625,
+          133.21087646484375
+        ],
+        [
+          722.78662109375,
+          151.84619140625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8652993440628052,
+      "points": [
+        [
+          152.21002197265625,
+          109.9578857421875
+        ],
+        [
+          188.3468017578125,
+          126.50680541992188
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8651762008666992,
+      "points": [
+        [
+          155.73353576660156,
+          168.80215454101562
+        ],
+        [
+          192.76731872558594,
+          184.76382446289062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8626245260238647,
+      "points": [
+        [
+          903.0598754882812,
+          132.63446044921875
+        ],
+        [
+          940.1051635742188,
+          148.80142211914062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8625280261039734,
+      "points": [
+        [
+          145.38619995117188,
+          146.13507080078125
+        ],
+        [
+          183.90432739257812,
+          163.37396240234375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8620932698249817,
+      "points": [
+        [
+          149.0491943359375,
+          246.1676788330078
+        ],
+        [
+          188.55169677734375,
+          263.57427978515625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8599541187286377,
+      "points": [
+        [
+          1236.8975830078125,
+          22.418840408325195
+        ],
+        [
+          1273.2740478515625,
+          39.89689636230469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.859947919845581,
+      "points": [
+        [
+          356.99383544921875,
+          64.95736694335938
+        ],
+        [
+          391.27313232421875,
+          80.91165161132812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8588907122612,
+      "points": [
+        [
+          699.9414672851562,
+          48.46326446533203
+        ],
+        [
+          735.5983276367188,
+          64.68206024169922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.857583224773407,
+      "points": [
+        [
+          0.0,
+          226.89889526367188
+        ],
+        [
+          24.310203552246094,
+          244.20004272460938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.857205331325531,
+      "points": [
+        [
+          532.2069702148438,
+          106.1407470703125
+        ],
+        [
+          567.0010375976562,
+          122.21849060058594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8570734262466431,
+      "points": [
+        [
+          256.50421142578125,
+          85.84632110595703
+        ],
+        [
+          293.11138916015625,
+          102.96292877197266
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.856987714767456,
+      "points": [
+        [
+          450.854248046875,
+          49.01032257080078
+        ],
+        [
+          488.2672119140625,
+          65.66753387451172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8566084504127502,
+      "points": [
+        [
+          813.01220703125,
+          180.58367919921875
+        ],
+        [
+          852.66552734375,
+          197.7733154296875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8536821007728577,
+      "points": [
+        [
+          972.5582885742188,
+          233.17681884765625
+        ],
+        [
+          1010.8324584960938,
+          249.855224609375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8528241515159607,
+      "points": [
+        [
+          702.4180908203125,
+          82.72784423828125
+        ],
+        [
+          739.4942626953125,
+          98.56747436523438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8526803851127625,
+      "points": [
+        [
+          1110.2666015625,
+          21.7033634185791
+        ],
+        [
+          1147.23095703125,
+          39.40789031982422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8524571657180786,
+      "points": [
+        [
+          1146.1240234375,
+          153.8236083984375
+        ],
+        [
+          1183.0771484375,
+          170.65106201171875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8510481715202332,
+      "points": [
+        [
+          1235.857177734375,
+          175.26002502441406
+        ],
+        [
+          1271.599853515625,
+          192.46250915527344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8485928773880005,
+      "points": [
+        [
+          779.056640625,
+          135.56573486328125
+        ],
+        [
+          817.43994140625,
+          152.312255859375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8450005054473877,
+      "points": [
+        [
+          33.403114318847656,
+          168.08865356445312
+        ],
+        [
+          72.98030090332031,
+          184.69857788085938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8428225517272949,
+      "points": [
+        [
+          751.7828979492188,
+          156.75082397460938
+        ],
+        [
+          792.1967163085938,
+          173.40567016601562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8373227119445801,
+      "points": [
+        [
+          745.2344970703125,
+          182.89329528808594
+        ],
+        [
+          784.6632080078125,
+          201.78736877441406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8364125490188599,
+      "points": [
+        [
+          687.1453857421875,
+          183.1778106689453
+        ],
+        [
+          722.7589111328125,
+          199.4203338623047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8314954042434692,
+      "points": [
+        [
+          944.4661865234375,
+          155.05618286132812
+        ],
+        [
+          979.5423583984375,
+          171.04238891601562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.8066869974136353,
+      "points": [
+        [
+          541.3323974609375,
+          61.08135986328125
+        ],
+        [
+          574.804443359375,
+          76.51673889160156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.805564820766449,
+      "points": [
+        [
+          798.8300170898438,
+          32.60126495361328
+        ],
+        [
+          832.5430297851562,
+          48.62310791015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.7990421056747437,
+      "points": [
+        [
+          0.0,
+          68.12024688720703
+        ],
+        [
+          26.19647789001465,
+          84.54120635986328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.7799174189567566,
+      "points": [
+        [
+          1258.053466796875,
+          127.76443481445312
+        ],
+        [
+          1278.84326171875,
+          144.53616333007812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": 0.6281307935714722,
+      "points": [
+        [
+          415.5511474609375,
+          188.34649658203125
+        ],
+        [
+          463.1729736328125,
+          207.510986328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "vehicle",
+      "score": null,
+      "points": [
+        [
+          252.02670723461796,
+          0.0
+        ],
+        [
+          288.8083164300203,
+          7.802569303583503
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "f000660.jpg",
+  "imageData": null,
+  "imageHeight": 270,
+  "imageWidth": 1280,
+  "description": ""
+}

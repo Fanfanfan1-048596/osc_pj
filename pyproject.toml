@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "osc-pj"
+version = "0.1.0"
+description = "Overhead road vehicle detection, lane marking segmentation, and tracking experiment"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "matplotlib>=3.9,<4",
+    "lap>=0.5.12,<0.6",
+    "motmetrics>=1.4,<2",
+    "numpy>=1.26,<3",
+    "opencv-python>=4.10,<5",
+    "pyyaml>=6,<7",
+    "scipy>=1.14,<2",
+    "torch>=2.11,<2.12",
+    "torchvision>=0.26,<0.27",
+    "ultralytics>=8.3,<9",
+]
+
+[project.scripts]
+osc-pj = "main:main"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["src", "config.yaml"]
+sources = ["src"]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu130" }
+torchvision = { index = "pytorch-cu130" }
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true

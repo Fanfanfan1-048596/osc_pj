@@ -1,0 +1,75 @@
+source:
+  crop: [0, 180, 1280, 270]
+
+classes: [vehicle]
+vehicle_names: [vehicle, small_vehicle, large_vehicle, car, van, truck, bus]
+annotation_version: 4.0.6
+inference_confidence: 0.25
+tracking_confidence: 0.1
+iou_threshold: 0.5
+ap_confidence: 0.001
+device: 0
+
+paths:
+  vehicle: .models/geotrax_yolov8s_1920.pt
+  lane: .models/unet_roadmark.pt
+  lane_training: outputs/training/lane_unet.pt
+
+lane_model:
+  tile_size: 256
+  stride: 192
+  batch_size: 16
+  threshold: 0.5
+  video_step: 10
+
+training:
+  detection_image_size: 1280
+  lane_epochs: 4
+  lane_learning_rate: 0.001
+  lane_batch: 32
+  lane_workers: 6
+  lane_weight_decay: 0.0001
+  lane_positive_weight: 10
+  image_mean: [0.485, 0.456, 0.406]
+  image_std: [0.229, 0.224, 0.225]
+
+visualization:
+  lane_alpha: 0.55
+  lane_color: deepskyblue
+  lane_width: 2
+  vehicle_color: indianred
+  vehicle_width: 2
+  trail_color: crimson
+  trail_seconds: 0.6
+  trail_head_width: 8
+  trail_alpha: 0.85
+  road_edge_color: coral
+
+road_regions:
+  XAM-S:
+    video: data/XAM-S.mp4
+    edge_band: 11
+    lane_margin: 10
+    guide: [[0, 178], [130, 178], [240, 160], [360, 148], [780, 150], [880, 165], [1050, 155], [1279, 150], [1279, 472], [900, 470], [750, 480], [470, 490], [200, 485], [0, 470]]
+  Anthem:
+    video: data/Anthem.mp4
+    edge_band: 31
+    lane_margin: 20
+    guide: [[0, 174], [300, 165], [700, 210], [850, 220], [920, 170], [940, 0], [1390, 0], [1390, 130], [1440, 210], [1500, 225], [1919, 220], [1919, 570], [1500, 550], [1450, 585], [1410, 1079], [1000, 1079], [1000, 750], [990, 650], [900, 540], [0, 540]]
+  Local:
+    video: data/local.mp4
+    edge_band: 31
+    lane_margin: 20
+    guide: [[0, 380], [700, 380], [800, 380], [860, 320], [865, 0], [1150, 0], [1150, 320], [1210, 380], [1919, 380], [1919, 730], [1220, 730], [1120, 790], [1100, 1079], [900, 1079], [900, 790], [800, 720], [0, 710]]
+
+evaluation:
+  detection_interval_seconds: 2
+  tracking_segments:
+    XAM-S: [[30, 33], [150, 153], [270, 273]]
+    Anthem: [[8, 11], [28, 31], [48, 51]]
+    Local: [[30, 33], [140, 143], [260, 263]]
+
+report_frames:
+  XAM-S: 4500
+  Anthem: 300
+  Local: 900
